@@ -88,5 +88,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/sVQlkuAI1z0Q
 ---
 
 ### :writing_hand: Blog Posts :
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&lo)](https://medium.com/@surajpanker82)
+- :zap: In my free time, I also write tech articles.[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&lo)](https://medium.com/@surajpanker82)
 </div>
