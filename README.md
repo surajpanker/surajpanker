@@ -33,8 +33,7 @@ https://www.sitepoint.com/github-profile-readme/
   <img src="https://komarev.com/ghpvc/?username=surajpanker&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
-  
+ Jai Shree Ram
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -45,16 +44,12 @@ https://www.sitepoint.com/github-profile-readme/
 I am a Full Stack Developer <img src="https://media.giphy.com/media/sVQlkuAI1z0QctbbQw/giphy.gif" height="20"  width="30" > from India.
 ---
 
-### :woman_technologist: About Me :
-
+### :man_technologist: About Me :
 
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  
   - :seedling: Exploring Technical Content Writing.
-  
-  - :zap: In my free time, I solve problems on LeetCode ,GeeksforGeeks and read tech articles.
-  
-  - :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-suraj-blue?style=flat&logo=Linkedin&lo)](https://www.linkedin.com/in/surajpanker/)
+  - :zap: In my free time, I solve problems on LeetCode, and GeeksforGeeks and read tech articles.
+  - :mailbox: How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-suraj-blue?style=flat&logo=Linkedin&lo)](https://www.linkedin.com/in/surajpanker/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -82,7 +77,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/sVQlkuAI1z0Q
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surajpanker)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpanker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpanker&layout=compact&theme=vision-friendly-dark)](https://github.com/surajpanker/github-readme-stats)
 
 
 ---
