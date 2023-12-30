@@ -52,7 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/sVQlkuAI1z0Q
   
   - :seedling: Exploring Technical Content Writing.
   
-  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  - :zap: In my free time, I solve problems on LeetCode ,GeeksforGeeks and read tech articles.
   
   - :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-suraj-blue?style=flat&logo=Linkedin&lo)](https://www.linkedin.com/in/surajpanker/)
 
